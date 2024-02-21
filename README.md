@@ -7,10 +7,9 @@ Hey there! I'm Arpit Goyal, a DevOps professional with a focus on the usage of o
 
 ## Statistics
 
-##### Stackoverflow Stats🚀
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/4719293?color=orange&label=Reputation&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/4719293)
 
-##### GitHub Stats🚀
+![Arpit's Github Stats](https://github-readme-stats.vercel.app/api?username=argoyal&count_private=true&show_icons=true&include_all_commits=true&theme=light)
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argoyal" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=argoyal&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
