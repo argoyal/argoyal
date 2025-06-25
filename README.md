@@ -4,7 +4,6 @@ Hey there! I'm Arpit Goyal, a DevOps professional with a focus on the usage of o
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=argoyal&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argoyal&theme=radical" alt="Arpit's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=argoyal&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="Gift's language"/>
 </div>
 
