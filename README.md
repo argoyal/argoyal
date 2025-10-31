@@ -1,4 +1,4 @@
-Hey there! I'm Arpit Goyal, a DevOps professional with a focus on the usage of open-source technologies. I also have an extensive understanding of systems architecture. Analyzing real-world problems, curating solutions, and implementing them through the digital platform is my passion. You can read more about me on my personal website <a href="https://argoyal.github.io/" target="_blank">here</a>
+Hey there! I'm Arpit Goyal, a DevOps professional with a focus on the usage of open-source technologies. I also have an extensive understanding of systems architecture. Analyzing real-world problems, curating solutions, and implementing them through the digital platform is my passion. You can read more about me on my personal website <a href="https://arpitgoyal.co.in/" target="_blank">here</a>
 
 ##
 
